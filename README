@@ -1,0 +1,10 @@
+We were asked to write a program in Flex that will receive input: Includes information on sports that appeared in the Olympics and the years in which
+Compete in any profession.
+
+output:
+The program will write to the output (to the output standard) a description of the tokens
+Finds in input.
+For each token that appears in the input, the token name, the lexeme, will appear in the output
+The string that appeared in the input that constitutes the token (and semantic value of
+The token (in case it has one). The description of each token will appear in a separate line
+

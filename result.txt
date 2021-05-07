@@ -1,0 +1,33 @@
+TOKEN					LEXEME				SEMANTIC VALUE
+--------------------------------------------------------------------------------------
+TITLE:					Olympic Games					
+SPORT:					<sport>					
+NAME:					"Archery"					
+YEARS:					<years> 					
+YEAR_NUM:				1900
+THROUGH:				-	  			from until 
+YEAR_NUM:				1908
+COMMA:					,
+YEAR_NUM:				1920
+COMMA:					,
+SINCE:					since
+YEAR_NUM:				1972
+SPORT:					<sport>					
+NAME:					"Athletics"					
+YEARS:					<years> 					
+ALL:					all
+SPORT:					<sport>					
+NAME:					"BasketBall"					
+YEARS:					<years> 					
+SINCE:					since
+YEAR_NUM:				1936
+SPORT:					<sport>					
+NAME:					"Tug Of War"					
+YEARS:					<years> 					
+YEAR_NUM:				1900
+THROUGH:				through	  			from until 
+YEAR_NUM:				1920
+SPORT:					<sport>					
+NAME:					"Karate"					
+YEARS:					<years> 					
+YEAR_NUM:				2021
